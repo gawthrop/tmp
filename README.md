@@ -10,8 +10,6 @@ The nbviewer links will display the notebooks containing the code for each of th
 Notebook | nbviewer | Binder | PDF
 --- | --- | --- | ---
 [2 Parameter
-Estimation](https://github.com/gawthrop/tmp/blob/main/Parameter.ipynb)|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/tmp/blob/main/Parameter.ipynb)|
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/tmp/main?filepath=Parameter.ipynb)
-| [PDF](https://github.com/gawthrop/tmp/blob/main/Parameter.pdf)
+Estimation](https://github.com/gawthrop/tmp/blob/main/Parameter.ipynb)|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/tmp/blob/main/Parameter.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/tmp/main?filepath=Parameter.ipynb)| [PDF](https://github.com/gawthrop/tmp/blob/main/Parameter.pdf)
 
 [3 E. Coli Core Model](https://github.com/gawthrop/tmp/blob/main/EcoliPPP.ipynb)|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/tmp/blob/main/EcoliPPP.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/tmp/main?filepath=EcoliPPP.ipynb) | [PDF](https://github.com/gawthrop/tmp/blob/main/EcoliPPP.pdf)
